@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Casebook
 
-I'm glad you are here. I plan to talk about ...
+What's on your mind?
